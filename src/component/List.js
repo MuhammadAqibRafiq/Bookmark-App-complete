@@ -54,7 +54,7 @@ function List({ links, loadLinks }) {
                                                 onClick={async () => {
                                                     const id = elem._id;
                                                     try {
-                                                        await fetch('/api/deleteLink', {
+                                                        await fetch('/.netlify/functions/deleteLink', {
                                                             method: 'DELETE',
                                                             body: JSON.stringify({ id }),
                                                         });
