@@ -1,0 +1,24 @@
+.card{
+    margin-bottom: 50px;
+}
+.bglist{
+    display: flex;
+    justify-content: flex-end;
+    background-image: url("https://source.unsplash.com/random") ;
+    background-size: auto;
+   
+}
+.formheaderbg{
+    background-color: rgb(161, 205, 231); 
+    font-size: 18px;
+    font-weight: bold;
+    size: 10px;
+    color: white
+}
+.listheaderbg{
+    color: rgb(255, 245, 245);
+    background-color: rgba(134, 130, 130, 0.541);
+    font-size: 18px;
+    font-weight: bold;
+    size: 10px;
+}
