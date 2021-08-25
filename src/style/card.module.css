@@ -3,7 +3,7 @@
 }
 .bglist{
     display: flex;
-    justify-content: flex-end;
+/*     justify-content: flex-end; */
     background-image: url("https://source.unsplash.com/random") ;
     background-size: auto;
    
