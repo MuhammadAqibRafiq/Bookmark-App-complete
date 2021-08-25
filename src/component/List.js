@@ -31,7 +31,7 @@ function List({ links, loadLinks }) {
                                     <Card bg='light mb-4' >
                                         <div className="card-header text-center" style={{ textTransform: 'uppercase', cursor: "pointer" }}>{elem.title}</div>
 
-                                        <div className='mt-4 mb-4' style={{ marginLeft: 20, marginRight: 20 }}>
+                                        <div className='mt-4 mb-4' style={{ marginLeft: 20, marginRight: 20 , minHeight:'50px' }}>
                                             <div>
 
                                                 {elem.url.length > MAX_LENGTH ?
