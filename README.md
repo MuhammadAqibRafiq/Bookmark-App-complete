@@ -1,54 +1,49 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+ Bookmark App(JAMSTACK)
 </h1>
 
-## 🚀 Quick start
+## 🚀 Quick Review
 
-1.  **Create a Gatsby site.**
+ Bookmark Website is use to save your favourite websites which you cant remember at same time
+ 
+DEMO : https://www.youtube.com/watch?v=rmFw9SNuZFo
+ 
+LIVE LINK : https://appbookmark.netlify.app/
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+<p align="center">
+</p>
+<h1 align="center">
+  SCREENSHOT
+</h1>
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+<h1>DESKTOP</h1>
+  
+   <img src="https://github.com/MuhammadAqibRafiq/Bookmark-App-complete/blob/main/static/desktop.png" width="1000" /> 
 
-2.  **Start developing.**
+<h1>MOBILE</h1>
 
-    Navigate into your new site’s directory and start it up.
+   <img src="https://github.com/MuhammadAqibRafiq/Bookmark-App-complete/blob/main/static/mobile.jpeg" width="300"  height="650" />
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+4.  **USED TECH**
 
-3.  **Open the code and start customizing!**
+    - JAMSTACK
 
-    Your site is now running at http://localhost:8000!
+    - NETLIFY
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    - GATSBY
 
-4.  **Learn more**
+    - GRAPHQL
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+    - FAUNADB
+    
+    - REACT TOASTIFY
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+    - CSS
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+    - FONTAWESOME
+     
+    - REACT JS
+    
+    - REACT BOOTSTRAP
